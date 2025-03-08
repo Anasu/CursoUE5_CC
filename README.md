@@ -9,10 +9,10 @@ Tengo algo de experiencia jugando con Unity, aunque no pude encontrar mis proyec
 - Voxel art basado en sprites de Pokemon Fire Red / Green Leaf.
 
 ## Enlaces útiles
-- **Curso que estoy siguiendo:** [Unreal Engine 5 de 0 a DIOS | https://www.udemy.com/course/unreal-engine-5-de-0-a-dios/]
+- **Curso que estoy siguiendo:** [Unreal Engine 5 de 0 a DIOS](https://www.udemy.com/course/unreal-engine-5-de-0-a-dios/)
 - **Streams del proceso del voxel art:**
-    - [Voxel art parte 1 | https://youtu.be/GIR5NquZwYw]
-    - [Voxel art parte 2 | https://youtu.be/6u3sdpBrLZo]
-    - [Voxel art parte 3 | https://youtu.be/IrVfV9UdBjQ]
-    - [Voxel art parte 4 | https://youtu.be/EcnHdxf6AH8]
-    - [Voxel art parte 4 | https://youtu.be/1RKBbCjGsfY]
+    - [Centro pokemon](https://youtu.be/GIR5NquZwYw)
+    - [Pokemart y letrero](https://youtu.be/6u3sdpBrLZo)
+    - [Casa](https://youtu.be/IrVfV9UdBjQ)
+    - [Arboles y acantilado](https://youtu.be/EcnHdxf6AH8)
+    - [Piso](https://youtu.be/1RKBbCjGsfY)
