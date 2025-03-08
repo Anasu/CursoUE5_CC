@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"E:/Documents/01-Trabajo/[Animacion]/Unreal stuff/CursoUE5_CC/Content/Maps/01_basics.umap"
+			]
+		}
+	]
+}
